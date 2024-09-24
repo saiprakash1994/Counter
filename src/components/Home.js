@@ -13,7 +13,7 @@ const Home = () => {
             <button type='button'><a href='context'>Context</a></button>
             <button type='button'><a href='fetch'>fetch</a></button>
             <button type='button'><a href='forms'>forms</a></button>
-            <button type='button'><a href='search'>forms</a></button>
+            <button type='button'><a href='search'>search</a></button>
 
 
 
