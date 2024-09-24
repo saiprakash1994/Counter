@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    padding: 0.5px;
+}
+
+.App {
+    text-align: center;
+    width: 98.5vw;
+
+}
+
+.main {
+    display: flex;
+}
+
+.head {
+    background-color: darkcyan;
+    color: lightcyan;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 5px;
+
+}
+
+.side {
+    display: flex;
+    flex-direction: column;
+    width: 18vw;
+    ;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
+
+.side1 {
+    text-align: start;
+
+}
+
+.contant {
+    width: 90vw;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 5px;
+
+}
+
+.box {
+
+    flex-wrap: wrap;
+    text-align: center;
+    display: flex;
+}
+
+.box1 {
+    border: 2px solid black;
+    margin: 5px;
+    width: 20rem;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: darkcyan;
+
+}
+
+img {
+    width: 19rem;
+    height: 15rem;
+    border-radius: 20px;
+
+}
